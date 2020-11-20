@@ -1,0 +1,54 @@
+E:\project\New folder\new browser\new browser\bin\Debug\new browser.exe.config
+E:\project\New folder\new browser\new browser\bin\Debug\new browser.exe
+E:\project\New folder\new browser\new browser\bin\Debug\new browser.pdb
+E:\project\New folder\new browser\new browser\bin\Debug\EasyTabs.dll
+E:\project\New folder\new browser\new browser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\project\New folder\new browser\new browser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.Dwmapi.dll
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.Gdi32.dll
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.Kernel32.dll
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.User32.dll
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.Uxtheme.dll
+E:\project\New folder\new browser\new browser\bin\Debug\EasyTabs.xml
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.Dwmapi.pdb
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.Gdi32.pdb
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.Gdi32.xml
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.Kernel32.pdb
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.User32.pdb
+E:\project\New folder\new browser\new browser\bin\Debug\Win32Interop.Uxtheme.pdb
+E:\project\New folder\new browser\new browser\obj\Debug\new_browser.AppContainer.resources
+E:\project\New folder\new browser\new browser\obj\Debug\new_browser.Form1.resources
+E:\project\New folder\new browser\new browser\obj\Debug\new_browser.Properties.Resources.resources
+E:\project\New folder\new browser\new browser\obj\Debug\new browser.csproj.GenerateResource.Cache
+E:\project\New folder\new browser\new browser\obj\Debug\new browser.csproj.CoreCompileInputs.cache
+E:\project\New folder\new browser\new browser\obj\Debug\new browser.exe
+E:\project\New folder\new browser\new browser\obj\Debug\new browser.pdb
+E:\project\New folder\new browser\new browser\obj\Debug\new browser.csprojAssemblyReference.cache
+E:\project\New folder\new browser\new browser\obj\Debug\new browser.csproj.CopyComplete
+E:\project\web browser\new browser\new browser\bin\Debug\new browser.exe.config
+E:\project\web browser\new browser\new browser\bin\Debug\new browser.exe
+E:\project\web browser\new browser\new browser\bin\Debug\new browser.pdb
+E:\project\web browser\new browser\new browser\bin\Debug\EasyTabs.dll
+E:\project\web browser\new browser\new browser\bin\Debug\Microsoft.WindowsAPICodePack.dll
+E:\project\web browser\new browser\new browser\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.Dwmapi.dll
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.Gdi32.dll
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.Kernel32.dll
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.User32.dll
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.Uxtheme.dll
+E:\project\web browser\new browser\new browser\bin\Debug\EasyTabs.xml
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.Dwmapi.pdb
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.Gdi32.pdb
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.Gdi32.xml
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.Kernel32.pdb
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.User32.pdb
+E:\project\web browser\new browser\new browser\bin\Debug\Win32Interop.Uxtheme.pdb
+E:\project\web browser\new browser\new browser\obj\Debug\new browser.csprojAssemblyReference.cache
+E:\project\web browser\new browser\new browser\obj\Debug\new_browser.AppContainer.resources
+E:\project\web browser\new browser\new browser\obj\Debug\new_browser.Form1.resources
+E:\project\web browser\new browser\new browser\obj\Debug\new_browser.Properties.Resources.resources
+E:\project\web browser\new browser\new browser\obj\Debug\new browser.csproj.GenerateResource.cache
+E:\project\web browser\new browser\new browser\obj\Debug\new browser.csproj.CoreCompileInputs.cache
+E:\project\web browser\new browser\new browser\obj\Debug\new browser.csproj.CopyComplete
+E:\project\web browser\new browser\new browser\obj\Debug\new browser.exe
+E:\project\web browser\new browser\new browser\obj\Debug\new browser.pdb
